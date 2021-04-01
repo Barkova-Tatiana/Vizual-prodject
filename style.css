@@ -24,6 +24,15 @@ p {
 }
 
 
+/* Container
+===================*/
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 
 /* Header
 ===================*/
@@ -61,7 +70,6 @@ p {
 
     border-bottom: 1px solid #515369;
 }
-
 
 
 /* Nav
@@ -491,8 +499,7 @@ p {
     opacity: 1;
 }
 
-
-* Download
+/* Download
 ===================*/
 
 .download {
@@ -517,6 +524,8 @@ p {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+
 
 /* Footer
 ===================*/
@@ -562,7 +571,6 @@ p {
 
 
 
-
 /* Copyright
 ===================*/
 
@@ -582,7 +590,6 @@ p {
 .copyright__text span {
     color: #fff;
 }
-
 
 
 /* Burger */
@@ -629,8 +636,6 @@ p {
     width: 26px;
     bottom: -8px;
 }
-
-
 
 
 
@@ -804,9 +809,6 @@ p {
         right: -100px;
     }
 }
-
-
-
 
 
 
